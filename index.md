@@ -18,4 +18,4 @@ Rhode Island, and lived in Montéal, Québec while an undergrad at McGill.
 
 ## Elsewhere
 
-[Twitter](https://twiter.com/eponvert)
+[Twitter](https://twitter.com/eponvert)
