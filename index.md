@@ -1,6 +1,6 @@
 ---
 layout: page
-title: This is the personal website of Elias Ponvert
+title: This is the personal website of Elias Franchot Ponvert
 ---
 
 Mostly some writings and stuff
@@ -11,14 +11,10 @@ Mostly some writings and stuff
 
 ## Backstory
 
-I am:
-* a PhD in linguistics from The University of Texas
-* a citizen of Austin, Texas since 2000
-* husband of the extraordinary Candace Pruett
-* father of four kids
-* also two cats and a dog
-* originally from Newport, Rhode Island
-* formerly a citizen of Montreal, Quebec and student at McGill
+I am a PhD in linguistics from The University of Texas and BA from McGill;
+I've been been in and around Austin, Texas since 2000; a father of four kids,
+also a dog and some other animals; originally from Newport, RI and 
+formerly lived in Montréal, Québec. Salut!
 
 ## Elsewhere
 
