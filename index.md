@@ -5,8 +5,6 @@ title: This is the personal website of Elias Ponvert
 
 Mostly some writings and stuff
 
-## Writings and things
-
 {% for post in site.posts %}
 [{{ post.title }}]({{ post.url }})<br>{{ post.date | date_to_string }}
 {% endfor %}
