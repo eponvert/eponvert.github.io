@@ -24,4 +24,4 @@ I am:
 
 ## Elsewhere
 
-* [@eponvert on Twitter](https://twitter.com/eponvert)
+* <a href="https://mastodon.social/@eponvert" rel="me">@eponvert@mastodon.social</a>
