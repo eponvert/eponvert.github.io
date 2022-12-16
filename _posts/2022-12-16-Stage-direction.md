@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stage direction from A Doll's House
+title: Stage direction
 status: publish
 type: post
 published: true
